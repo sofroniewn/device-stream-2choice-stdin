@@ -1,0 +1,25 @@
+{
+  "name": "device-stream-2choice-stdin",
+  "version": "0.0.0",
+  "description": "Stream simultating two buttons and leds from stdin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofroniewn/device-stream-2choice-stdin.git"
+  },
+  "keywords": [
+    "device",
+    "stream",
+    "2choice",
+    "stdin"
+  ],
+  "author": "Nicholas Sofroniew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sofroniewn/device-stream-2choice-stdin/issues"
+  },
+  "homepage": "https://github.com/sofroniewn/device-stream-2choice-stdin#readme"
+}
