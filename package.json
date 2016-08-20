@@ -1,6 +1,6 @@
 {
   "name": "device-stream-2choice-stdin",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Stream simultating two buttons and leds from stdin",
   "main": "index.js",
   "scripts": {
