@@ -9,13 +9,13 @@ This module simulates a red and blue button, and a red and blue led from stdin. 
 
 
 ## Usage
-`js
+```js
 var device = require('device-stream-2choice-stdin')
 var dStream = device.createStream()
 
 dStream.write({blueLED: false, redLED: true})
 dStream.on('data', console.log)
-`
+```
 
 ## API
 
